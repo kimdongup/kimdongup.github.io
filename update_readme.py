@@ -1,4 +1,5 @@
 import os
+from dotenv import load_dotenv
 import requests
 import re
 from datetime import datetime, timezone, timedelta
@@ -24,6 +25,8 @@ DEFAULT_README_TEMPLATE = f"""# 📝 Recipes
 {MARKER_START}
 {MARKER_END}
 """
+
+load_dotenv()
 
 # =======================================================
 # [시스템 설정]
