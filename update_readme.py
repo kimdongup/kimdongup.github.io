@@ -194,7 +194,7 @@ def update_main_readme_by_scanning(reset_mode):
         # 마커 사이 교체
         final_content = (
             readme_text[:start_idx + len(MARKER_START)] + 
-            "\n" + new_content + 
+            "\n\n" + new_content + 
             readme_text[end_idx:]
         )
 
