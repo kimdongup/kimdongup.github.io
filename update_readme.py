@@ -12,8 +12,11 @@ SAVE_DIR_ROOT = "TIL"
 NOTION_PROPERTY_TITLE = "제목"
 NOTION_PROPERTY_DATE = "날짜"
 README_FILE = "README.md"
-MARKER_START = ""
-MARKER_END = ""
+
+# 💡 마커 주석 추가 (중복 방지 핵심)
+MARKER_START = "<!-- LIST_START -->"
+MARKER_END = "<!-- LIST_END -->"
+
 TIMEZONE_HOURS = 9 
 
 # 초기화 모드일 때 사용될 기본 템플릿
