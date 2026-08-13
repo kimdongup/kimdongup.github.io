@@ -8,7 +8,10 @@
 <!-- LIST_START -->
 
 ### 2026년 08월
+- [2026-08-12 : RouteLapse](./TIL/2026/08/2026-08-12_RouteLapse.md)
+- [2026-08-12 : CV Quest](./TIL/2026/08/2026-08-12_CV_Quest.md)
 - [2026-08-12 : 삼성의 LPDDR은 경쟁력을 어디에서 가져올까](./TIL/2026/08/2026-08-12_삼성의_LPDDR은_경쟁력을_어디에서_가져올까.md)
+- [2026-08-12 : FlowTextCapture](./TIL/2026/08/2026-08-12_FlowTextCapture.md)
 - [2026-08-12 : Reading List](./TIL/2026/08/2026-08-12_Reading_List.md)
 - [2026-08-04 : 삼성의 LPDDR은 경쟁력을 어디에서 가져올까](./TIL/2026/08/2026-08-04_삼성의_LPDDR은_경쟁력을_어디에서_가져올까.md)
 - [2026-08-03 : Image Compare AI](./TIL/2026/08/2026-08-03_Image_Compare_AI.md)
